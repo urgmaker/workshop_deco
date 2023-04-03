@@ -14,3 +14,9 @@ S
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+A
+chapter_2/Hard.py,d\d\dd5afc73086a1344c42591721a14405004bd6734
+C
+chapter_2/Medium.py,e\9\e96def5683a281aa020179e890a34b0e7b7a9686
+A
+chapter_2/Easy.py,3\1\31a8ebc7ce8426b8cc8625bd0e385ff8f87ba8c1
